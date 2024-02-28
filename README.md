@@ -6,8 +6,5 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in Pytho
 
 - 💻 I'm proficient in Python and JavaScript.
 - 🌐 I specialize in front-end web development.
-- 🎨 I have experience creating responsive and visually appealing websites.
-- 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
-
 
 
